@@ -1,5 +1,5 @@
 # 需要NTQQ+LiteLoader+LLOneBot
-# 需要安装flask
+# 需要安装flask和request
 # pip install requests flask
 
 
